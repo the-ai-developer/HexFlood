@@ -1,5 +1,6 @@
 # URL-DDOS Tool
-**Coded By**: @princetheprogrammer
+**Coded By**: @PrinceTheProgrammer
+
 **GitHub**: [github.com/the-ai-developer](https://github.com/the-ai-developer)
 
 ## About
