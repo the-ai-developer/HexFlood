@@ -1,5 +1,5 @@
 # URL-DDOS Tool
-**Coded By**: @Hack4Fun  
+**Coded By**: @princetheprogrammer
 **GitHub**: [github.com/the-ai-developer](https://github.com/the-ai-developer)
 
 ## About
