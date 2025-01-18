@@ -1,10 +1,10 @@
-# URL-DDOS Tool
+# HexFlood
 **Coded By**: @PrinceTheProgrammer
 
 **GitHub**: [github.com/the-ai-developer](https://github.com/the-ai-developer)
 
 ## About
-**URL-DDOS** is a Python-based tool designed for educational purposes only, aimed at simulating Denial of Service (DoS) attacks using three different attack modes: UDP, TCP, and HTTP. This tool can be used to understand how DDoS attacks work, and to test the resilience of a network, server, or website under simulated traffic conditions.
+**HexFlood** is a Python-based tool designed for educational purposes only, aimed at simulating Denial of Service (DoS) attacks using three different attack modes: UDP, TCP, and HTTP. This tool can be used to understand how DDoS attacks work, and to test the resilience of a network, server, or website under simulated traffic conditions.
 
 > **NOTE**: This tool is intended for legal and ethical use only. Do not use this tool to attack any unauthorized systems. Use it only on systems you have explicit permission to test.
 
